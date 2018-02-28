@@ -73,7 +73,6 @@ namespace SysProgramming_04_Practice_WPF
             }
             MessageBox.Show("Вы были зарегестрированы успешно");
         }
-
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
