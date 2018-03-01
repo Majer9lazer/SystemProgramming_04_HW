@@ -216,6 +216,7 @@ namespace ConsoleApp2
 
                 Mutex mutexObj = new Mutex(true, guid, out existed);
 
+
                 if (existed)
                 {
                     Console.WriteLine("Unique app per system");

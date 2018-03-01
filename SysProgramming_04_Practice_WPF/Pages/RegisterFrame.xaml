@@ -21,13 +21,14 @@
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
         <Label Grid.Column="0" Grid.Row="0" Content="Your Mail" HorizontalContentAlignment="Center"></Label>
-        <TextBox x:Name="UserMailTextBox" Grid.Column="1" Grid.Row="0" Margin="3"></TextBox>
+        <TextBox x:Name="UserMailTextBox" Grid.Column="1" Grid.Row="0" Margin="3" Text="sdgjhasg" ></TextBox>
 
         <Label Grid.Column="0" Grid.Row="1" Content="Your Login" HorizontalContentAlignment="Center"></Label>
-        <TextBox x:Name="UserLoginTextBox" Grid.Column="1" Grid.Row="1" Margin="3"></TextBox>
+        <TextBox x:Name="UserLoginTextBox" Grid.Column="1" Grid.Row="1" Margin="3" Text="sadsadas"></TextBox>
 
         <Label Grid.Column="0" Grid.Row="2" Content="Your Password" HorizontalContentAlignment="Center"></Label>
-        <TextBox x:Name="UserPasswordTextBox" Grid.Column="1" Grid.Row="2" Margin="3"></TextBox>
+        <TextBox x:Name="UserPasswordTextBox" Grid.Column="1" Grid.Row="2" Margin="3" Text="sadasdas"></TextBox>
+
         <Button Grid.Row="3" Grid.Column="1" Content="Registrate" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="3" Click="Button_Click"></Button>
         <Button Grid.Row="3" Grid.Column="0" Content="Log in" HorizontalAlignment="Right" Width="150" VerticalAlignment="Center" Margin="3" Click="Button_Click_1"></Button>
         <TextBlock x:Name="ErrorOrSuccessTextBlock" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="0" Background="AliceBlue" Margin="3"></TextBlock>

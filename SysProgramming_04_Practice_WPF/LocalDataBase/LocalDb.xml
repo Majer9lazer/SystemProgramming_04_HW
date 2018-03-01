@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <UserId>0</UserId>
+    <UserMail>qwerty@gmail.com</UserMail>
+    <UserLogin>qwerty123</UserLogin>
+    <UserPassword>145</UserPassword>
+    <IsOnline>No</IsOnline>
+  </User>
+  <User>
+    <UserId>1</UserId>
+    <UserMail>dsqdq</UserMail>
+    <UserLogin>swqsqs</UserLogin>
+    <UserPassword>150</UserPassword>
+    <IsOnline>No</IsOnline>
+  </User>
+  <User>
+    <UserId>2</UserId>
+    <UserMail>dqdqw</UserMail>
+    <UserLogin>dqd</UserLogin>
+    <UserPassword>lalal</UserPassword>
+    <IsOnline>No</IsOnline>
+  </User>
+  <User>
+    <UserId>3</UserId>
+    <UserMail>sdgjhasg</UserMail>
+    <UserLogin>sadsadas</UserLogin>
+    <UserPassword>sadasdas</UserPassword>
+    <IsOnline>No</IsOnline>
+  </User>
+  <User>
+    <UserId>4</UserId>
+    <UserMail>dsadasdas</UserMail>
+    <UserLogin>sadasdsa</UserLogin>
+    <UserPassword>asdasdasds</UserPassword>
+    <IsOnline>No</IsOnline>
+  </User>
+  <User>
+    <UserId>5</UserId>
+    <UserMail>dasdas</UserMail>
+    <UserLogin>asdas</UserLogin>
+    <UserPassword>das</UserPassword>
+    <IsOnline>No</IsOnline>
+  </User>
+</Users>

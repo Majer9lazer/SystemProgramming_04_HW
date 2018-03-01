@@ -21,5 +21,7 @@ namespace SysProgramming_04_Practice_WPF.Model
         [Required]
         [StringLength(50)]
         public string UserPassword { get; set; }
+
+        public string IsOnline { get; set; }
     }
 }
